@@ -1,6 +1,3 @@
-# Cryptocurrency-Volatility-Prediction
-Project on Cryptocurrency Volatility Prediction using Machine Learning 
- 
 # 🪙 Cryptocurrency Volatility Prediction
 
 An end-to-end Machine Learning web application designed to forecast cryptocurrency market volatility levels using historical price data and advanced technical indicators.
