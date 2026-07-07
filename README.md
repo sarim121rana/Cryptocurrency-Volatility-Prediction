@@ -1,13 +1,10 @@
 # Cryptocurrency-Volatility-Prediction
 Project on Cryptocurrency Volatility Prediction using Machine Learning 
-https://huggingface.co/spaces/sarimrana/crypto-volatility-predictor 
+ 
 # 🪙 Cryptocurrency Volatility Prediction
 
 An end-to-end Machine Learning web application designed to forecast cryptocurrency market volatility levels using historical price data and advanced technical indicators.
-
-## 🚀 Live Demo
-You can interact with the live web application here:
-👉 **[Click Here to View Live Predictor App](https://huggingface.co/spaces/sarimrana/crypto-volatility-predictor)**
+ 
 
 ---
 
